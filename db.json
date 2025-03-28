@@ -1,0 +1,162 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "username": "arjun",
+        "name": "Arjun Sharma",
+        "password": "arjun",
+        "age": 28,
+        "city": "Mumbai",
+        "gender": "Male",
+        "email": "arjun.sharma@example.com"
+      },
+      {
+        "id": "2",
+        "username": "priya",
+        "name": "Priya Kapoor",
+        "password": "priya@456",
+        "age": 25,
+        "city": "Delhi",
+        "gender": "Female",
+        "email": "priya.kapoor@example.com"
+      },
+      {
+        "id": "3",
+        "username": "rahul",
+        "name": "Rahul Verma",
+        "password": "rahul@789",
+        "age": 30,
+        "city": "Bangalore",
+        "gender": "Male",
+        "email": "rahul.verma@example.com"
+      },
+      {
+        "id": "4",
+        "username": "neha",
+        "name": "Neha Mehta",
+        "password": "neha@321",
+        "age": 27,
+        "city": "Pune",
+        "gender": "Female",
+        "email": "neha.mehta@example.com"
+      },
+      {
+        "id": "5",
+        "username": "amit_007",
+        "name": "Amit Trivedi",
+        "password": "amit@987",
+        "age": 32,
+        "city": "Hyderabad",
+        "gender": "Male",
+        "email": "amit.trivedi@example.com"
+      }
+    ],
+    "fiction": [
+      {
+        "id": "098",
+        "name": "The Chef",
+        "author": "Joseph Murphy",
+        "released_year": 1949,
+        "description": "A dystopian novel about a totalitarian regime and constant surveillance.",
+        "isbn": "9780451524935"
+      },
+      {
+        "id": "1741774839094",
+        "name": "asfvc ",
+        "author": "asdf",
+        "released_year": "1999",
+        "isbn": "1234567",
+        "category": "fiction"
+      }
+    ],
+    "philosophy": [
+      {
+        "id": "004",
+        "name": "Meditations",
+        "author": "Marcus Aurelius",
+        "released_year": 180,
+        "description": "A collection of personal reflections by the Roman Emperor on Stoic philosophy.",
+        "isbn": "9780140449334"
+      }
+    ],
+    "spiritual": [
+      {
+        "id": "006",
+        "name": "Autobiography of a Yogi",
+        "author": "Paramahansa Yogananda",
+        "released_year": 1946,
+        "description": "A spiritual classic describing the life and teachings of a great yogi.",
+        "isbn": "9780876120835"
+      }
+    ],
+    "personality_development": [
+      {
+        "id": "008",
+        "name": "The 7 Habits of Highly Effective People",
+        "author": "Stephen R. Covey",
+        "released_year": 1989,
+        "description": "A self-improvement book providing a framework for effectiveness in personal and professional life.",
+        "isbn": "9780743269513"
+      },
+      {
+        "id": "038",
+        "name": "The 5 am Club",
+        "author": "Robin Sharma",
+        "released_year": 2013,
+        "description": "A self-improvement book providing a framework for effectiveness in personal and professional life.",
+        "isbn": "9780743249513"
+      },
+      {
+        "id": "1741755374361",
+        "name": "The power of Subconscious Minf ",
+        "author": "Joseph Murphy",
+        "released_year": "1998",
+        "isbn": "987654322345",
+        "category": "personality_development"
+      }
+    ],
+    "thriller_horror": [
+      {
+        "id": "009",
+        "name": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "released_year": 2019,
+        "description": "A psychological thriller about a woman who stops speaking after a shocking crime.",
+        "isbn": "9781250301697"
+      },
+      {
+        "id": "010",
+        "name": "Dracula",
+        "author": "Bram Stoker",
+        "released_year": 1897,
+        "description": "A classic horror novel that introduces the legendary vampire Count Dracula.",
+        "isbn": "9780486411095"
+      },
+      {
+        "id": "011",
+        "name": "Dracula",
+        "author": "Bram Stoker",
+        "released_year": 1897,
+        "description": "A classic horror novel that introduces the legendary vampire Count Dracula.",
+        "isbn": "9780486411095"
+      }
+    ],
+    "readlist": [
+      {
+        "id": "009",
+        "name": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "released_year": 2019,
+        "description": "A psychological thriller about a woman who stops speaking after a shocking crime.",
+        "isbn": "9781250301697"
+      },
+      {
+        "id": "002",
+        "name": "1984",
+        "author": "George Orwell",
+        "released_year": 1949,
+        "description": "A dystopian novel about a totalitarian regime and constant surveillance.",
+        "isbn": "9780451524935"
+      }
+    ]
+  }
